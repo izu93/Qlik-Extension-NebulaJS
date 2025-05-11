@@ -1,3 +1,7 @@
 export default {
-  targets: [],
+  targets: [
+    {
+      path: "/qHyperCubeDef",
+    },
+  ],
 };
